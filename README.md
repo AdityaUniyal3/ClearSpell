@@ -1,4 +1,4 @@
-# Checkers
+# ClearSpell
 
 
 To run the application from an IDE:
